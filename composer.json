@@ -1,0 +1,34 @@
+{
+  "name": "daresdev/laravel-loader",
+  "description": "A package for displaying a loader while pages load in Laravel 11",
+  "version": "1.0.0",
+  "keywords": [
+    "loader",
+    "laravel"
+  ],
+  "require": {
+    "php": ">=8.2",
+    "illuminate/support": "^11.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Daresdev\\LaravelLoader\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Daresdev\\LaravelLoader\\LoaderServiceProvider"
+      ]
+    }
+  },
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "Daresdev",
+      "email": "daresdev.deploy741@slmails.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

@@ -1,0 +1,10 @@
+.vscode/
+
+# dependencies
+vendor/
+
+# macOS-specific files
+.DS_Store
+
+# packages
+composer.lock
