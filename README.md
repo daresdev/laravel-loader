@@ -38,7 +38,7 @@ Si necesitas personalizar el loader, puedes modificar el archivo **loader.blade.
 
 ## Licencia
 
-El paquete está licenciado bajo la [GPL-3.0 license](https://opensource.org/licenses/MIT). Mira el archivo [LICENSE](LICENSE) para más información.
+El paquete está licenciado bajo la [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.html). Mira el archivo [LICENSE](LICENSE) para más información.
 
 ## Contribuciones
 
